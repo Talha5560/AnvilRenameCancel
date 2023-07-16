@@ -1,7 +1,0 @@
-name: AnvilRenameCancel
-version: '${project.version}'
-main: com.anvilrenamecancel.AnvilRenameCancel
-api-version: 1.16
-author: MyTruth
-website: minetruth.com
-description: This plugin blocks the anvil rename event
